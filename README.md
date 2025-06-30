@@ -15,14 +15,14 @@ An Arduino project that demonstrates how to control 3 LEDs using 3 push buttons
 
 🧰 Component Used
 
-Arduino UNO 
-3 LEDs
-3 Push buttons
-3 470 ohm resistors (for leds)
-3 1k ohm resistors  (for push buttons)
-Jumper wires
-Breadboard
-9V Battery (optional)
+- Arduino UNO 
+- 3 LEDs
+- 3 Push buttons
+- 3 470 ohm resistors (for leds)
+- 3 1k ohm resistors  (for push buttons)
+- Jumper wires
+- Breadboard
+- 9V Battery (optional)
 
 ---
 
