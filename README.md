@@ -43,13 +43,13 @@ An Arduino project that demonstrates how to control 3 LEDs using 3 push buttons
 Below are images showing the LED response when each button is pressed:
 
 ▶️ Button 1 Pressed
-*Red led turns ON*
+Red led turns ON
 ![IMG_3089](https://github.com/user-attachments/assets/0d652431-05d4-44e3-8785-a7c7fb22a1de)
 
 ▶️ Button 2 Pressed
-*Yellow led turns ON*
+Yellow led turns ON
 ![IMG_3090](https://github.com/user-attachments/assets/d48e004e-9121-4470-bbdf-0d625450359e)
 
 ▶️ Button 3 Pressed
-*Blue led turns ON*
+Blue led turns ON
 ![IMG_3091](https://github.com/user-attachments/assets/9df3c1af-a838-4e34-9457-a31f31934ede)
