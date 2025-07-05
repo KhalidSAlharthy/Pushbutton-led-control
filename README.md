@@ -30,6 +30,8 @@ An Arduino project that demonstrates how to control 3 LEDs using 3 push buttons
 
 <img width="617" alt="CircuitDTinker" src="https://github.com/user-attachments/assets/85e82858-4002-4d38-81f8-77e58db3fb2f" />
 
+You can view and simulate the complete circuit design here:
+https://www.tinkercad.com/things/3TEEjdPMCjN-pushbutton-led-control-task1elec?sharecode=KtG6aLzMJ5CmEmvmJHpJ3m3UeHR2TMjDK7qdcsK87cQ
 ---
 
 🔌 Physical Build
